@@ -8,7 +8,7 @@ BSC, Ethereum mainnet, (Any EVM chains)
 Languange: Typescript, Solidity
 Type: Bot
 
-## How to use it?
+## How to use?
 
 - You should install node modules by
 ```
